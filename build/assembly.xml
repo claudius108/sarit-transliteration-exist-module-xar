@@ -7,7 +7,6 @@
 	<copyright>true</copyright>
 	<type>library</type>
 	<status>stable</status>
-	<tag>${module-prefix}</tag>
 	<tag>expath</tag>
 	<tag>library</tag>
 	<tag>exist</tag>
@@ -18,7 +17,7 @@
 		<dependencySet>
 			<groupId>de.uni-hd.hra</groupId>
 			<artifactId>sarit-transliteration-exist-module</artifactId>
-			<version>0.0.1</version>
+			<version>0.0.2</version>
 		</dependencySet>
 		<dependencySet>
 			<groupId>org.sanskritlibrary</groupId>
