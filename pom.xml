@@ -5,7 +5,7 @@
 
 	<groupId>de.uni-hd.hra.xars</groupId>
 	<artifactId>sarit-transliteration</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3</version>
 	<url>http://sarit.indology.info</url>
 	<packaging>pom</packaging>
 
@@ -22,6 +22,11 @@
 		<package-abbrev>${project.artifactId}</package-abbrev>
 		<package-type>library</package-type>
 		<package-final-name>${project.artifactId}-${project.version}</package-final-name>
+		
+		<java-package-name>ftclient</java-package-name>
+		<java-package-main-class-name>ExistExpathFTClientModule</java-package-main-class-name>
+		<module-prefix>ft-client</module-prefix>
+		
 	</properties>
 
 	<build>
