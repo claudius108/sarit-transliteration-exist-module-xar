@@ -5,7 +5,7 @@
 
 	<groupId>de.uni-hd.hra.xars</groupId>
 	<artifactId>sarit-transliteration</artifactId>
-	<version>0.0.4</version>
+	<version>0.0.5</version>
 	<url>http://sarit.indology.info</url>
 	<packaging>pom</packaging>
 
