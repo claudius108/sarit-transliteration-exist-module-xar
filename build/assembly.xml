@@ -12,7 +12,7 @@
 	<tag>exist</tag>
 	<category id="libs">Libraries</category>
 	<category id="exist">eXist extensions</category>
-	<dependency processor="http://exist-db.org" semver-min="2.3.0" />
+	<dependency processor="http://exist-db.org/" semver-min="2.3.0" />
 	<dependencySets>
 		<dependencySet>
 			<groupId>de.uni-hd.hra</groupId>
